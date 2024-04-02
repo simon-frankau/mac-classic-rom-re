@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "extract_edisks",
+    "extract_traps",
+]
